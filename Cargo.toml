@@ -1,0 +1,7 @@
+[package]
+name = "rocket-cms"
+version = "0.1.0"
+authors = ["neet <n33t5hin@gmail.com>"]
+
+[dependencies]
+rocket = "0.4.0-rc.1"
